@@ -1,0 +1,3 @@
+display.hide-ticker=true
+display.hide-bar=true
+runtime=10000

@@ -43,6 +43,7 @@ DIV#overlay {
   width:1024px;
   background-image:url('overlay.png');
   overflow:hidden;
+  background-color:black;
 }
 
 DIV#quotes {

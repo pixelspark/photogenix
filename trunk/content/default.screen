@@ -1,7 +1,7 @@
 display.hide-bar=true
 display.hide-ticker=true
 runtime=10000
-marquee.text=Geen info.
+marquee.text=
 popup.text=
 content.ignore-campaigns=
 display.hide-background=false
